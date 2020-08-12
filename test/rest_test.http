@@ -1,0 +1,17 @@
+GET http://127.0.0.1:8080/data
+
+###
+
+POST http://localhost:8080/data
+
+{
+    "id": "1",
+    "location": {
+        "lat": 123.123,
+        "long": 456.456
+    }
+}
+
+###
+
+DELETE http://localhost:8080/data
