@@ -13,7 +13,7 @@ const (
 	userName     = "root"
 	password     = "root"
 	network      = "tcp"
-	server       = "127.0.0.1"
+	server       = "mysql"
 	port         = 3306
 	database     = "cu"
 	databaseType = "mysql"
